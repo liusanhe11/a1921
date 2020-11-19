@@ -18,6 +18,6 @@ void Print(LinkList *L);
 void createlist();
 void delete();
 
-#define m 11
-#define n 3
+#define n 11
+#define m 3
 #endif 
