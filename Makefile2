@@ -1,0 +1,4 @@
+tstack:stack.c teststack.c
+	gcc stack.c teststack.c -o tstack
+clean:
+	rm stack
